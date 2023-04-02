@@ -1,5 +1,4 @@
 import pickle
-from sklearn.metrics import confusion_matrix, accuracy_score
 import numpy as np
 import streamlit as st
 import pandas as pd
